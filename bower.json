@@ -1,0 +1,18 @@
+{
+  "name": "mainobject-front",
+  "homepage": "https://github.com/ragmon/mainobject-frontend-front",
+  "description": "Main-object application frontend front.",
+  "main": "index.html",
+  "authors": [
+    "Arthur Ragimov"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
