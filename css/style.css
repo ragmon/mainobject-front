@@ -1469,3 +1469,16 @@ img {
     filter: none; /* IE6-9 */
     -webkit-filter: grayscale(0); /* Google Chrome, Safari 6+ & Opera 15+ */
 }
+
+
+.row-promotion {
+    margin-bottom: 25px;
+}
+.row-promotion .promotion-logo-col {
+    text-align: center;
+}
+.row-promotion .promotion-logo {
+}
+.row-promotion p {
+    font-size: 16px;
+}
