@@ -1474,6 +1474,9 @@ img {
 .row-promotion {
     margin-bottom: 25px;
 }
+.row-promotion h2 {
+    margin-top: 0;
+}
 .row-promotion .promotion-logo-col {
     text-align: center;
 }
